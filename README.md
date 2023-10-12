@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kashif</h1>
 <h3 align="center">A passionate AI, ML Engineer from India. Ready to work for Data Roles</h3>
 
-<img align="right" alt="coding" width="400" src = "https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy.gif">
+<img align="right" alt="coding" width="400" src = "https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif">
 
 - 🔭 I’m currently working on ["NewsViz: Advanced Equity Research Tool"](https://github.com/KASHIFMD/NewsViz-Advanced-Equity-Research-Tool)
 
