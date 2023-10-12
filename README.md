@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/kashif_DA](https://linktr.ee/kashif_DA)
 
-- 💬 Ask me about **DSA, SQL, ML, DL, NLP, CNN, Time series analysis.**
+- 💬 Ask me about **DSA, OS, OOPs, DBMS, SQL, ML, DL, NLP, CNN, Time series analysis, C, C++, Python**
 
 - 📫 How to reach me **kashifmohammed04@gmail.com**
 
@@ -40,9 +40,9 @@
 
 
 
+<!--
 ### Hi there 👋
 
-<!--
 **KASHIFMD/KASHIFMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
