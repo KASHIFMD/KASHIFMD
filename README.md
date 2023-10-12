@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Kashif</h1>
 <h3 align="center">A passionate AI, ML Engineer from India. Ready to work for Data Roles</h3>
 
+<img align="right" alt="coding" width="400" src = "https://media.giphy.com/media/Hrm0LJNRkPHDkLIHz9/giphy.gif">
+
 - 🔭 I’m currently working on ["NewsViz: Advanced Equity Research Tool"](https://github.com/KASHIFMD/NewsViz-Advanced-Equity-Research-Tool)
 
 - 🌱 I’m currently learning **Machine learning algorithms, NLP, LLM, LLM Finetuning, Amazon Sagemaker, LIME & SHAPE, CNN and Computer Vision**
+
+- I am also started learning **HTML, CSS, JavaScript, React**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/kashif_DA](https://linktr.ee/kashif_DA)
 
