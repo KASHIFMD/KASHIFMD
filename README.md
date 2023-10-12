@@ -2,13 +2,15 @@
 <h3 align="center">A passionate AI, ML Engineer from India. Ready to work for Data Roles</h3>
 
 
+<img align="right" alt="coding" width="400" src = "https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif">
+
 - 🔭 I’m currently working on ["NewsViz: Advanced Equity Research Tool"](https://github.com/KASHIFMD/NewsViz-Advanced-Equity-Research-Tool) and ["End-to-End Kidney disease predictor CI/CD with AWS and Docker"](https://github.com/KASHIFMD/End-to-End-Kidney-Disease-Predictor-CI-CD-with-AWS-and-Docker)
 
 - 🌱 I’m currently learning **Machine learning algorithms, NLP, LLM, LLM Finetuning, Amazon Sagemaker, LIME & SHAPE, CNN and Computer Vision**
 
 - I am also started learning **HTML, CSS, JavaScript, React**
 
-- 👨‍💻 All of my projects are available at ["Portfolio Website"](https://linktr.ee/kashif_DA)
+- 👨‍💻 All of my projects are available at my ["Portfolio Website"](https://linktr.ee/kashif_DA)
 
 - 💬 Ask me about **DSA, OS, OOPs, DBMS, SQL, ML, DL, NLP, CNN, Time series analysis, C, C++, Python**
 
@@ -16,8 +18,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1ZwmWdcMwgjFR3_v0Viu7oyVqVOtXLet1?usp=sharing](https://drive.google.com/drive/folders/1ZwmWdcMwgjFR3_v0Viu7oyVqVOtXLet1?usp=sharing)
 
-
-<img align="right" alt="coding" width="400" src = "https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif">
 
 
 
