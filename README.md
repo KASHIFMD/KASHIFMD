@@ -3,13 +3,13 @@
 
 <img align="right" alt="coding" width="400" src = "https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif">
 
-- 🔭 I’m currently working on ["NewsViz: Advanced Equity Research Tool"](https://github.com/KASHIFMD/NewsViz-Advanced-Equity-Research-Tool)
+- 🔭 I’m currently working on ["NewsViz: Advanced Equity Research Tool"](https://github.com/KASHIFMD/NewsViz-Advanced-Equity-Research-Tool) and ["End-to-End Kidney disease predictor CI/CD with AWS and Docker"](https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif)
 
 - 🌱 I’m currently learning **Machine learning algorithms, NLP, LLM, LLM Finetuning, Amazon Sagemaker, LIME & SHAPE, CNN and Computer Vision**
 
 - I am also started learning **HTML, CSS, JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/kashif_DA](https://linktr.ee/kashif_DA)
+- 👨‍💻 All of my projects are available at ["Portfolio Website"](https://linktr.ee/kashif_DA](https://linktr.ee/kashif_DA)
 
 - 💬 Ask me about **DSA, OS, OOPs, DBMS, SQL, ML, DL, NLP, CNN, Time series analysis, C, C++, Python**
 
