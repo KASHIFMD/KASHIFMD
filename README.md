@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kashif</h1>
-<h3 align="center">A passionate AI, ML Engineer from India. Ready to work for Data Roles</h3>
+<h3 align="center">A passionate AI, ML Engineer from India. Ready to work for Software and Data Roles</h3>
 
 
 <img align="right" alt="coding" width="400" src = "https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif">
