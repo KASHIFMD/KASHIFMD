@@ -1,3 +1,4 @@
+![logo](https://github.com/KASHIFMD/KASHIFMD/blob/main/banner.jpeg)
 <h1 align="center">Hi, I'm Kashif</h1>
 <h3 align="center">A passionate AI, ML Engineer from India. Ready to work for Software and Data Roles</h3>
 
