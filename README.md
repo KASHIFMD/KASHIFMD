@@ -41,7 +41,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashifmd&show_icons=true&locale=en" alt="kashifmd" /></p>
 
 
+<img align="left" alt="Looking for Team member" width="400" src = "https://media.giphy.com/media/3AEMVHLJQm8MwC9dMw/giphy.gif">
 
+<img align="right" alt="Hire me" width="400" src = "https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/giphy.gif">
 
 
 <!--
