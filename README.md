@@ -3,7 +3,6 @@
 <h3 align="center">A passionate AI, ML Engineer from India. Ready to work for Software and Data Roles</h3>
 
 
-<img align="right" alt="coding" width="400" src = "https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif">
 
 - 🔭 I’m currently working on ["NewsViz: Advanced Equity Research Tool"](https://github.com/KASHIFMD/NewsViz-Advanced-Equity-Research-Tool) and ["End-to-End Kidney disease predictor CI/CD with AWS and Docker"](https://github.com/KASHIFMD/End-to-End-Kidney-Disease-Predictor-CI-CD-with-AWS-and-Docker)
 
@@ -20,6 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1ZwmWdcMwgjFR3_v0Viu7oyVqVOtXLet1?usp=sharing](https://drive.google.com/drive/folders/1ZwmWdcMwgjFR3_v0Viu7oyVqVOtXLet1?usp=sharing)
 
 
+<img align="right" alt="coding" width="800" src = "https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif">
 
 
 ### Blogs posts
