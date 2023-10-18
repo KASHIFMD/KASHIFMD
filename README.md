@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1ZwmWdcMwgjFR3_v0Viu7oyVqVOtXLet1?usp=sharing](https://drive.google.com/drive/folders/1ZwmWdcMwgjFR3_v0Viu7oyVqVOtXLet1?usp=sharing)
 
 
-<img align="right" alt="coding" width="800" src = "https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif">
+<img align="right" alt="coding" width="500" src = "https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif">
 
 
 ### Blogs posts
