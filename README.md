@@ -1,32 +1,47 @@
-![logo](https://github.com/KASHIFMD/KASHIFMD/blob/main/banner.jpeg)
-<h1 align="center">Hi, I'm Kashif</h1>
-<h3 align="center">A passionate AI, ML Engineer from India. Ready to work for Software and Data Roles</h3>
+<!-- ![logo](https://github.com/KASHIFMD/KASHIFMD/blob/main/banner.jpeg) -->
+<h1 align="center">Hi, This is Kashif</h1>
+<h3 align="center">I'm AI/ML Engineer</h3>
 
+<!-- - 🔭 I’m currently working on ["NewsViz: Advanced Equity Research Tool"](https://github.com/KASHIFMD/NewsViz-Advanced-Equity-Research-Tool) and ["End-to-End Kidney disease predictor CI/CD with AWS and Docker"](https://github.com/KASHIFMD/End-to-End-Kidney-Disease-Predictor-CI-CD-with-AWS-and-Docker) -->
 
-- 🔭 I’m currently working on ["NewsViz: Advanced Equity Research Tool"](https://github.com/KASHIFMD/NewsViz-Advanced-Equity-Research-Tool) and ["End-to-End Kidney disease predictor CI/CD with AWS and Docker"](https://github.com/KASHIFMD/End-to-End-Kidney-Disease-Predictor-CI-CD-with-AWS-and-Docker)
+- Specialised in production grade, highly scalable ML system design and implementation
 
-- 🌱 I’m currently learning **Machine learning algorithms, NLP, LLM, LLM Finetuning, Amazon Sagemaker, LIME & SHAPE, CNN and Computer Vision**
+<!-- - 👨‍💻 All of my projects are available at my ["Like of linktr.ee webpage"](https://linktr.ee/kashif_DA) -->
 
-- I am also started learning **HTML, CSS, JavaScript, React**
+- Course Learnt **DSA, OS, OOPs, DBMS, SQL, ML, DL, NLP, CNN, Time series analysis**
+- Languages **C, C++, Python, Go**
+- Tools
+  **MySQL, MongoDB, RabbitMQ, Postman, Jupyter Notebook/JupyterLab, Git/Github/Gitlab version control, Docker, Amazon Web Services (AWS), CI/CD Pipeline**
 
-- 👨‍💻 All of my projects are available at my ["Portfolio Website"](https://linktr.ee/kashif_DA)
-
-- 💬 Ask me about **DSA, OS, OOPs, DBMS, SQL, ML, DL, NLP, CNN, Time series analysis, C, C++, Python**
+- Frameworks and Libraries
+  **Flask, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, NLP, NLTK, SpaCy, Transformers (Hugging Face)**
 
 - 📫 How to reach me **kashifmohammed04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ZwmWdcMwgjFR3_v0Viu7oyVqVOtXLet1?usp=sharing](https://drive.google.com/drive/folders/1ZwmWdcMwgjFR3_v0Viu7oyVqVOtXLet1?usp=sharing)
+- [📄 Attached Resume](https://drive.google.com/drive/folders/1ZwmWdcMwgjFR3_v0Viu7oyVqVOtXLet1?usp=sharing)
+
+### [Blogs posts](https://kashifmd.github.io/blogs/)
+
+1. [Flash Attention](https://kashifmd.github.io/blogs/flash-attention/)
+   <!-- BLOG-POST-LIST:START -->
+   <!-- BLOG-POST-LIST:END -->
+
+### My Favorite Projects
+
+* [LLM Inference Optimization ](https://kashifmd.github.io/):
+  - Reduced inference latency by 74% for Llama3.1 8B, LLaVA1.5v 7B, and Llama3.2-Vision 11B models using Triton Inference Server, TensorRT-LLM, and KV cache 
+  - Currently integrating FlashAttention for further acceleration 
+  - Built a dynamic autoscaling pipeline with Ray Serve to handle production traffic efficiently 
+* [Multimodal Search System ](https://kashifmd.github.io/): 
+  - Designed a real-time image-serving system based on user-searched categories using SBERT, Milvus, and Llama3.2-Vision 
+  - Improved CTR by 16.4% after deployment 
+  - Integrated OpenCV and Guardrails to ensure safe, relevant content delivery 
+
+* [Media Infrastructure at Scale ](https://kashifmd.github.io/): 
+  - Developed a complete on-premise HLS video transcoding pipeline using FFmpeg and Nvidia NVENC, reducing dependency on cloud solutions 
+  - Built a scalable media processing system that handled 100M+ images and 1M+ videos using Kafka, Redis, Flask, and GO 
 
 
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-<img align="right" alt="coding" width="500" src = "https://media.giphy.com/media/jMbfmwkrcm82PRlYa9/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kashifmd2023iit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kashifmd2023iit/" height="30" width="40" /></a>
@@ -50,23 +65,23 @@
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://aetperf.github.io/img/2021-01-29_01/1024px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a> 
 </p>
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashifmd&show_icons=true&locale=en" alt="kashifmd" /></p> -->
+
+## GitHub Commit Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KASHIFMD&show_icons=true&theme=dark" alt="kashifmd" style="width: 80%; height: auto;" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashifmd&show_icons=true&locale=en" alt="kashifmd" /></p>
-<img alt="Looking for Team member" width="300" src = "https://media.giphy.com/media/3AEMVHLJQm8MwC9dMw/giphy.gif", class="center">
-<!--
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KASHIFMD&layout=compact&theme=dark" alt="Top Langs" style="width:80%;" />
 
-**KASHIFMD/KASHIFMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Outside of coding, I enjoy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏊 Swimming
+
+- 🏋️ Gymming
+
+- ⚽ Playing football, cricket, and badminton
+
+- Watching Movices [e.g., sci-fi, action]
+
