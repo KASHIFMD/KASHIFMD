@@ -83,5 +83,5 @@
 
 - ⚽ Playing football, cricket, and badminton
 
-- Watching Movices [e.g., sci-fi, action]
+- Watching Movies [e.g., sci-fi, action]
 
